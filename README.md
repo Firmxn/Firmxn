@@ -26,7 +26,7 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 <br>
 <a href="https://firmxn.pythonanywhere.com/link">
   <img
-    src="https://firmxn.pythonanywhere.com?spin=false&scan=true&theme=0000FF&eq_color=0000FF"
+    src="https://firmxn.pythonanywhere.com?spin=false&scan=true&theme=light&eq_color=0000FF"
     alt="Current Spotify Song"
     width="100%"  <-- TAMBAHKAN INI
   />
