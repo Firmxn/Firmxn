@@ -23,13 +23,16 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 
 <br>
 <br>
-<a href="https://firmxn.pythonanywhere.com/link">
-  <img
-    src="https://firmxn.pythonanywhere.com?spin=false&scan=true&theme=light&eq_color=0000FF"
-    alt="Current Spotify Song"
-    width="100%"  <-- TAMBAHKAN INI
-  />
-</a>
+<div style="display: flex; justify-content: flex-end; width: 100%;">
+  <a href="https://firmxn.pythonanywhere.com/link">
+    <img
+      src="https://firmxn.pythonanywhere.com?spin=false&scan=true&theme=light&eq_color=0000FF"
+      alt="Current Spotify Song"
+      width="50%"
+       align="right"
+    />
+  </a>
+</div>
 <br>
 <br>
 
