@@ -37,7 +37,7 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Firmxn&layout=compact&theme=radical)-->
 
-<div style="display: flex; justify-content: space-around; width: 100%; gap: 20px;">
+<!--<div style="display: flex; justify-content: space-around; width: 100%; gap: 20px;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical"
     alt="GitHub Stats"
@@ -48,7 +48,7 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
     alt="Top Languages"
 width=40%;"
   />
-</div>
+</div>-->
 
 
 
