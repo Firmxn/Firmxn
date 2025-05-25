@@ -35,6 +35,8 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 </div>
 <br>
 <br>
+<br>
+<br>
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical)
 
