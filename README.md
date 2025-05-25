@@ -19,6 +19,8 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 **Tentang Saya**
 *Tidak tahu apapun tentang diri saya*
 
+> "Kreativitas adalah kecerdasan yang bersenang-senang." - Albert Einstein
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical)
 
