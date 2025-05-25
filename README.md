@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 Halo, Saya Firmansyah Pramudia Ariyanto!
 **Tentang Saya**
 *Tidak tahu apapun tentang diri saya*
 
-> "Kreativitas adalah kecerdasan yang bersenang-senang." - Albert Einstein
+> "Kreativitas adalah kecerdasan yang bersenang-senang." - Albert Einstein-->
 
 <br>
 <br>
