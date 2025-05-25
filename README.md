@@ -33,9 +33,22 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 </a>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Firmxn&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Firmxn&layout=compact&theme=radical)-->
+
+<div style="display: flex; justify-content: space-around; width: 100%;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    style="width: 48%; height: auto; max-width: 400px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firmxn&layout=compact&theme=radical"
+    alt="Top Languages"
+    style="width: 48%; height: auto; max-width: 400px;"
+  />
+</div>
 
 
 
