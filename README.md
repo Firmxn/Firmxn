@@ -23,7 +23,6 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 
 <br>
 <br>
-<br>
 <a href="https://firmxn.pythonanywhere.com/link">
   <img
     src="https://firmxn.pythonanywhere.com?spin=false&scan=true&theme=light&eq_color=0000FF"
@@ -31,7 +30,8 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
     width="100%"  <-- TAMBAHKAN INI
   />
 </a>
-
+<br>
+<br>
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical)
 
