@@ -41,12 +41,12 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
   <img
     src="https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical"
     alt="GitHub Stats"
-   width=100%;"
+   width=40%;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firmxn&layout=compact&theme=radical"
     alt="Top Languages"
-width=100%;"
+width=40%;"
   />
 </div>
 
