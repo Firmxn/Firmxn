@@ -20,4 +20,4 @@ Halo, Saya Firmansyah Pramudia Ariyanto!
 *Tidak tahu apapun tentang diri saya*
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=skyBlue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical)
