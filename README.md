@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Judul Utama: # Halo, Saya [Nama Kalian]!
+Sub-judul: ## Tentang Saya atau ### Apa yang Saya Lakukan
+Teks Biasa: Cukup ketik saja seperti biasa.
+Tebal: **teks ini akan tebal**
+Miring: *teks ini akan miring*
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&theme=radical)
+Initial profile README
