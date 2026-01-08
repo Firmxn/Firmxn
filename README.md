@@ -8,32 +8,19 @@
 
 ---
 
-## Highlights
-- Membangun UI yang clean dan konsisten dengan sistem desain.
-- Mengutamakan maintainability melalui arsitektur yang jelas dan dokumentasi yang ringkas.
-- Terbiasa bekerja dengan workflow Git dan code review.
-
-## Selected Projects
-- **BatamGo Web API** — API transportasi publik untuk rute, halte, dan bus (relasi many-to-many & one-to-many). Admin panel disiapkan dengan Filament.
-  - **Stack:** Laravel 12, PHP 8.2+, Filament 3, Vite, Tailwind CSS, MySQL/PostgreSQL/SQLite.
-- **ARCeffee (Coffee Shop App)** — Aplikasi pemesanan coffee shop dengan panel admin. Dibangun dengan bantuan context + prompting ke AI agent.
-  - **Stack:** Next.js App Router, React 19, TypeScript, Tailwind CSS, Radix UI, Supabase (Auth + Postgres), Zustand, React Hook Form, Zod.
-- **CoETreemine** — Kontribusi utama di **frontend** (backend & UI/UX dikerjakan oleh rekan tim).
-  - **Stack:** Frontend web (detail stack dapat ditambahkan).
+## Pengalaman
+- Rangkuman pengalaman proyek: membangun aplikasi web end-to-end dari perencanaan UI hingga integrasi backend, termasuk panel admin, API terstruktur, serta kolaborasi lintas peran untuk menjaga kualitas dan konsistensi produk.
+- Terbiasa fullstack dengan **PHP native + Bootstrap** serta **Laravel + Tailwind CSS**.
+- Mengembangkan frontend web dengan App Router, SSR/SSG, komponen UI reusable, form validation, dan state management.
+- Membangun dashboard & admin panel termasuk autentikasi, manajemen data, dan pengaturan konten.
+- Menyusun API terstruktur, relasi data, serta integrasi database untuk kebutuhan integrasi klien.
+- Berkolaborasi dalam tim dengan fokus kontribusi pada frontend saat backend & UI/UX ditangani rekan tim.
+- Memanfaatkan AI-assisted development untuk mempercepat eksplorasi dan delivery fitur.
 
 ## Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Radix UI
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap
 - **Backend:** Laravel, PHP
-- **Database/Services:** Supabase (Auth + Postgres)
-- **Tools:** Git, GitHub
-
-## Connect
-- **GitHub:** https://github.com/Firmxn
-
----
-
-## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
+- **Database:** MySQL
 - **Tools:** Git, GitHub
 
 ## Connect
