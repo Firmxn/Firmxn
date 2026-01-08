@@ -13,6 +13,25 @@
 - Mengutamakan maintainability melalui arsitektur yang jelas dan dokumentasi yang ringkas.
 - Terbiasa bekerja dengan workflow Git dan code review.
 
+## Selected Projects
+- **BatamGo Web API** — API transportasi publik untuk rute, halte, dan bus (relasi many-to-many & one-to-many). Admin panel disiapkan dengan Filament.
+  - **Stack:** Laravel 12, PHP 8.2+, Filament 3, Vite, Tailwind CSS, MySQL/PostgreSQL/SQLite.
+- **ARCeffee (Coffee Shop App)** — Aplikasi pemesanan coffee shop dengan panel admin. Dibangun dengan bantuan context + prompting ke AI agent.
+  - **Stack:** Next.js App Router, React 19, TypeScript, Tailwind CSS, Radix UI, Supabase (Auth + Postgres), Zustand, React Hook Form, Zod.
+- **CoETreemine** — Kontribusi utama di **frontend** (backend & UI/UX dikerjakan oleh rekan tim).
+  - **Stack:** Frontend web (detail stack dapat ditambahkan).
+
+## Tech Stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Radix UI
+- **Backend:** Laravel, PHP
+- **Database/Services:** Supabase (Auth + Postgres)
+- **Tools:** Git, GitHub
+
+## Connect
+- **GitHub:** https://github.com/Firmxn
+
+---
+
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
