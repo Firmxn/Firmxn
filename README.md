@@ -32,6 +32,15 @@
 
 ---
 
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
+
+## Connect
+- **GitHub:** https://github.com/Firmxn
+
+---
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Firmxn&show_icons=true&hide_border=true&theme=default"
